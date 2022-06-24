@@ -15,7 +15,7 @@ export default class Test extends React.PureComponent {
 
     return (
       <div>
-        {a} {b.a}
+        {a} {b}
       </div>
     );
   }
